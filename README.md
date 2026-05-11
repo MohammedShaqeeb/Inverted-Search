@@ -233,17 +233,6 @@ Index  Word            FileCount   Filename             WordCount
 
 ---
 
-## 👨‍💻 Author
-
-**Mohammed Shaqeeb**
-
----
-
-## 📅 Project Duration
-
-* **Start Date:** 27-04-2026
-* **End Date:** 07-05-2026
-
 ---
 
 ## 📜 License
